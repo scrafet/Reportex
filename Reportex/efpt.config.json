@@ -1,0 +1,64 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "ReportexContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Reportex",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Menu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Reporte]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Rol]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RolMenu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RolReporte]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Usuario]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsuarioRol]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-RTR90I9.Reportex",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
